@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -rf iflyMSC.zip iflyMSC
+curl -o iflyMSC.zip http://specsfile.mjb6.cn/iflyMSC/11.6.2/iflyMSC.zip
+unzip iflyMSC.zip
